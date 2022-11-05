@@ -1,6 +1,6 @@
 # determinant_calculator
 
-Download and compile with
+Compile and run with commands
 ```
 make
 make run
